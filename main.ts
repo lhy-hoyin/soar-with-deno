@@ -1,11 +1,9 @@
-import { mutiplyWords } from "./multiply-words.ts";
+function foo(s: any): any {
+  return "foo"
+}
 
 if (import.meta.main) {
-  const multipliedWords = mutiplyWords(
-    Deno.args[0].trim(),
-    Number.parseInt(Deno.args[1].trim()),
-  );
-  console.log(
-    multipliedWords,
-  );
+  let foobar = "bar";
+  const barsoap = 0;
+  console.log(foo("foo"), foobar);
 }
