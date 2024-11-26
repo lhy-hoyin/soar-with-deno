@@ -456,6 +456,9 @@
       "integrity": "sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg=="
     }
   },
+  "remote": {
+    "https://gist.githubusercontent.com/uncomfyhalomacro/b5de275dfcbaeff1d2d89739541e4e6f/raw/648e323e4ab872cc2a6eeafdd1ccf46d8f6c6301/mod.ts": "8a08c6b9b2704e994a5b9a92556e9d7cc27cb2080a4f832c9c8781f8ad770988"
+  },
   "workspace": {
     "dependencies": [
       "jsr:@std/assert@1"
